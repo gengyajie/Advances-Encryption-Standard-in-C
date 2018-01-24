@@ -4,6 +4,7 @@ This program implements two layers (SubBytes and ShiftRows) of AES algorithm in 
 ## Files
 * aes.h: includes the initial S-Box for SubBytes layer
 * aes.c: implements the SubBytes and ShiftRows
+* Makefile
 
 ## Compile and Run
 * To compile, run "make".
