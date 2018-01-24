@@ -8,7 +8,7 @@ This program implements two layers (SubBytes and ShiftRows) of AES algorithm in 
 
 ## Compile and Run
 * To compile, run "make".
-* After compiling, run "./aes"
+* After compiling, run "./aes".
 * After running, input the plaintext to be encryped following the instructions.
 
 ## Note
